@@ -52,15 +52,25 @@ Start and Stop Buttons
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
+
 I used the website stack overflow and also rented a java script textbook from my school library "Eloquent JavaScript: A Modern Introduction to Programming"
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
+
+
 The first challenge that I encountered was the formatting of the JavaScript language. I had no prior experience of JavaScript at all and minimal experience with java itself. The required tasks of the project were not so daunting, as the instructions were concise and easy to follow. I did however encounter an error with running the program right before I had entered the guess function. The program wouldn't continue and play a sound after I pressed the start button. I opened up the console to try and debug and after about an hour or so, I found out that my naming had been mismatched for a couple of my buttons and my alignment was off for a few functions. I had copy and pasted some of the code from the tutorial, which messed up the alignment in a couple lines of code. After fixing these issues, I moved on to the optional features. I had no trouble adding additional buttons, but I had to look up how to utilize the Math.random function as I've never used JavaScript before. After a couple of hours playing around with the feature, I completed the task. Since I did some research and read through the textbook, I had no problem adding the speed up feature along with the strikes feature into the project.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
+
 During this project, I only created a simple memory game, but I was wondering how it could be used in conjunction PHP servers/ backend services and REST APIs to create websites that are synchronous that provide real time data to its users. Another thing that I am curious about is if other websites services like Webflow, Squaresites can truly replace JavaScript + CSS websites in the future. I know that JavaScript allows for fully customizable websites, but webflow along with other services seem to have come a long way in allowing their users to develop websites without knowing how to code. I am also curious to see how web development can also be applied to creating mobile applications and whether or not the process is similar. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
+
+
 If I had a few more hours to work on this project, I would probably add additional optional features that I didn't have much time to work on (midterm season, taking care of family). I would also like to have created a longer memory game with different levels of difficulty that ramped up in length and added squares as you progress. Instead of having random generated notes, I would've chosen specific songs and specific melodies for each level. For example, I would've added songs like twinkle twinkle little star with more than just 6 notes at higher difficulties. I also think it would be interesting if there were interacting graphics on the webpage to make it seem more appealing. The last thing that I would've done, is to create a leaderboard that has a record of all users and the highest level they've gotten to. 
 
 
